@@ -21,7 +21,8 @@ Este script em Python permite que você baixe vídeos do YouTube como arquivos d
 
 1. Clone este repositório para sua máquina local.
 2. Instale as dependências necessárias (`yt_dlp`, `moviepy`, `pathlib`).
-3. Execute o script.
+3. Forneça um novo link para o download em `youtube_url`
+4. Execute o script.
 
 ## Observações
 
