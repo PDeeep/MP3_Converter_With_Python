@@ -8,7 +8,7 @@ Este script em Python permite que você baixe vídeos do YouTube como arquivos d
    - Função: `downloadAndConvertVideoToAudio(youtube_url)`
    - Baixa um vídeo do YouTube a partir da URL informada, converte-o para MP3 e salva dentro do repositório utilizado.
    -  Parâmetros:
-     - `url` (str): Link do vídeo dentro do YouTube.
+     - `youtube_url` (str): Link do vídeo dentro do YouTube.
 
 2. **Converter MP4 para MP3**
    - Função: `convertMp4ToMp3(mp4, mp3)`
